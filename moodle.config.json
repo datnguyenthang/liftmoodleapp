@@ -20,7 +20,7 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": ['tls.cbvgroup.net'],
+    "sites": ["tls.cbvgroup.net"],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
