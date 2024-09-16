@@ -20,7 +20,14 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": ["tls.cbvgroup.net"],
+	"sites": [
+		{
+			"name": "L.I.F.T",
+			"alias": "L.I.F.T",
+			"url": "https://tls.cbvgroup.net",
+			"staging": false
+		}
+    ],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
