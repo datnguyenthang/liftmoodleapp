@@ -10,7 +10,7 @@
     "default_lang": "vi",
     "languages": {
         "en": "English",
-        "vi": "Vietnamese",
+        "vi": "Vietnamese"
     },
     "wsservice": "moodle_mobile_app",
     "defaultZoomLevel": "none",
